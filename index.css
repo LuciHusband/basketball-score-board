@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    background-color: #1B244A;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+h3 {
+    font-family: monospace;
+    font-size: 34px;
+    color: #F94F6D;
+    position: relative;
+    text-align: center; 
+}
+
+.osb {
+    color: white;
+    font-family: monospace;
+    font-size: 24px;
+}
+
+button {
+    background-color: #1B244A;
+    border-color: #9AABD8;
+    border-width: 2px;
+    border-radius: 5px;
+    color: #9AABD8;
+    font-family: monospace;
+    font-size: 20px;
+}
